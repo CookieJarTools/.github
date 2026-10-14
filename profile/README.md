@@ -12,6 +12,39 @@
 
 <br>
 
+## Desktop apps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/CookieJarTools/CrumbTree"><img src="https://raw.githubusercontent.com/CookieJarTools/.github/main/profile/crumbtree.png" alt="CrumbTree"></a>
+
+### [CrumbTree](https://github.com/CookieJarTools/CrumbTree)
+
+A desktop git client with a clear, vertical commit graph, so a branch reads straight
+down the page instead of sideways.
+
+`Windows` [**Download the latest release**](https://github.com/CookieJarTools/CrumbTree/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/CookieJarTools/GameBridge"><img src="https://raw.githubusercontent.com/CookieJarTools/.github/main/profile/gamebridge.png" alt="GameBridge"></a>
+
+### [GameBridge](https://github.com/CookieJarTools/GameBridge)
+
+One launcher for your Unity, Unreal and custom engine projects. Open, build and ship
+them from one list.
+
+`Windows` `Free for commercial use`
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ## Unity packages
 
 <table>
@@ -108,39 +141,6 @@ Or put the line straight into `Packages/manifest.json`:
 ```json
 "com.cookiejartools.cookbook": "https://github.com/CookieJarTools/Cookbook.git"
 ```
-
-<br>
-
-## Desktop apps
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/CookieJarTools/CrumbTree"><img src="https://raw.githubusercontent.com/CookieJarTools/.github/main/profile/crumbtree.png" alt="CrumbTree"></a>
-
-### [CrumbTree](https://github.com/CookieJarTools/CrumbTree)
-
-A desktop git client with a clear, vertical commit graph, so a branch reads straight
-down the page instead of sideways.
-
-`Windows` [**Download the latest release**](https://github.com/CookieJarTools/CrumbTree/releases/latest)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/CookieJarTools/GameBridge"><img src="https://raw.githubusercontent.com/CookieJarTools/.github/main/profile/gamebridge.png" alt="GameBridge"></a>
-
-### [GameBridge](https://github.com/CookieJarTools/GameBridge)
-
-One launcher for your Unity, Unreal and custom engine projects. Open, build and ship
-them from one list.
-
-`Windows` `Free for commercial use`
-
-</td>
-</tr>
-</table>
 
 <br>
 
