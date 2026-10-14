@@ -81,6 +81,15 @@ rules are yours to set.
 
 </td>
 <td width="50%" valign="top">
+
+<br>
+
+### More in the jar
+
+Other tools are being finished off, and turn up here as they are ready.
+
+[Everything in the organisation](https://github.com/orgs/CookieJarTools/repositories)
+
 </td>
 </tr>
 </table>
