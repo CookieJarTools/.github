@@ -25,19 +25,19 @@
 A desktop git client with a clear, vertical commit graph, so a branch reads straight
 down the page instead of sideways.
 
-`Windows` [**Download the latest release**](https://github.com/CookieJarTools/CrumbTree/releases/latest)
+`Windows` [**Download the installer**](https://github.com/CookieJarTools/CrumbTree/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/CookieJarTools/GameBridge"><img src="https://raw.githubusercontent.com/CookieJarTools/.github/main/profile/gamebridge.png" alt="GameBridge"></a>
+<a href="https://github.com/CookieJarTools/GameBridge"><img src="https://raw.githubusercontent.com/CookieJarTools/GameBridge/Master/docs/banner.png" alt="GameBridge"></a>
 
 ### [GameBridge](https://github.com/CookieJarTools/GameBridge)
 
-One launcher for your Unity, Unreal and custom engine projects. Open, build and ship
-them from one list.
+One launcher for your Unity, Unreal and custom engine projects. Open a project, open it
+with your IDE, build it without opening the editor, and ship it, all from one list.
 
-`Windows` `Free for commercial use`
+`Windows` [**Download the installer**](https://github.com/CookieJarTools/GameBridge/releases/latest)
 
 </td>
 </tr>
