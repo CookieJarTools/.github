@@ -103,20 +103,6 @@ is rather than in a note somewhere else.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/CookieJarTools/CrumbBaker"><img src="https://raw.githubusercontent.com/CookieJarTools/CrumbBaker/main/Documentation~/hero.png" alt="Crumb Baker"></a>
-
-### [Crumb Baker](https://github.com/CookieJarTools/CrumbBaker)
-
-Checks a package before you release it, so nothing ships with a piece missing. The
-rules are yours to set.
-
-`Unity 6000.0+`
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-
 ### More in the jar
 
 Other tools are being finished off, and turn up here as they are ready.
