@@ -103,6 +103,18 @@ is rather than in a note somewhere else.
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/CookieJarTools/Sifter"><img src="https://raw.githubusercontent.com/CookieJarTools/Sifter/main/Documentation~/hero.png" alt="Sifter"></a>
+
+### [Sifter](https://github.com/CookieJarTools/Sifter)
+
+A console for the editor worth reading. Every part of a stack trace coloured for
+what it is, every frame clickable, and the list survives a recompile.
+
+`Unity 6000.0+`
+
+</td>
+<td width="50%" valign="top">
+
 ### More in the jar
 
 Other tools are being finished off, and turn up here as they are ready.

@@ -62,6 +62,9 @@ TOOLS = [
     ("CT", "Crumb Trail", "A to do list inside the editor, so the next job is written down where the work is.",
      "Unity 6000.0+", "F:/Dev/CookieJar/Assets/CookieJarTools/CrumbTrail/Documentation~/hero.png",
      (468, 66, 926, 456)),
+    ("SF", "Sifter", "A console worth reading, with every part of a stack trace coloured for what it is.",
+     "Unity 6000.0+", "F:/Dev/CookieJar/Assets/CookieJarTools/Sifter/Documentation~/hero.png",
+     (516, 42, 985, 478)),
 ]
 
 HERE = os.path.dirname(os.path.abspath(__file__))
